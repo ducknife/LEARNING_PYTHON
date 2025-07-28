@@ -1,0 +1,277 @@
+69
+Sandra Martinez
+30/05/1992
+Sr. Mgr
+99037093
+Nancy Wilson
+18/12/1996
+Sr. Mgr
+98961415
+Christopher Gonzalez
+23/02/1991
+Mgr
+97280627
+Thomas Wilson
+26/06/1999
+Sr. Spec
+97129007
+Margaret Wilson
+28/08/1994
+Intern
+95048227
+Anthony Moore
+12/11/1996
+CFO
+94904587
+Richard Anderson
+26/09/1998
+CFO
+94868701
+Sarah Brown
+18/01/2001
+Sr. Mgr
+90817359
+Jessica Taylor
+13/11/2002
+VP
+87807325
+Nancy Johnson
+26/03/1996
+CTO
+87565859
+Betty Moore
+27/11/2001
+Dir.
+83426936
+Sandra Anderson
+23/09/1994
+Intern
+82778379
+Margaret Gonzalez
+05/07/1996
+Dir.
+80536741
+Robert Anderson
+17/09/2000
+VP
+79972816
+Robert Smith
+07/10/1996
+Mgr
+78563125
+Thomas Smith
+13/11/1996
+Mgr
+77192492
+Sandra Martinez
+12/06/1993
+CEO
+76661539
+Elizabeth Lopez
+12/06/1997
+COO
+76191049
+Anthony Hernandez
+31/12/1995
+VP
+76121851
+Karen Rodriguez
+11/03/1999
+Dir.
+75274992
+David Gonzalez
+11/05/1998
+CTO
+73586721
+Matthew Johnson
+13/05/1994
+Sr. Spec
+71172697
+Karen Rodriguez
+31/05/2002
+COO
+70160982
+Jennifer Hernandez
+15/03/1994
+Sr. Spec
+69753517
+David Jones
+28/10/1996
+Sr. Spec
+69124743
+Charles Jackson
+21/05/2004
+CFO
+67598435
+Thomas Martin
+25/11/1993
+TL
+67182056
+Matthew Anderson
+18/04/1992
+CEO
+66913005
+Robert Smith
+24/10/1999
+Sr. Spec
+64528191
+Sandra Martin
+01/06/1996
+CFO
+64314735
+Robert Brown
+22/05/2002
+VP
+64283546
+James Taylor
+20/06/2003
+Sr. Spec
+63804014
+James Hernandez
+19/11/1991
+CEO
+61390727
+Joseph Taylor
+03/01/2004
+Intern
+60254132
+Mary Martinez
+02/05/2000
+Staff
+58622853
+Sandra Rodriguez
+11/07/1994
+CFO
+54361530
+Daniel Johnson
+29/12/1995
+Sr. Spec
+54256245
+Elizabeth Miller
+01/08/2000
+COO
+53047025
+Anthony Brown
+11/08/1997
+CTO
+52976098
+Mark Rodriguez
+11/08/1992
+VP
+51540428
+Christopher Williams
+09/10/2001
+Staff
+50553701
+Richard Lopez
+07/01/1992
+TL
+48309577
+Patricia Williams
+02/05/2001
+Mgr
+46534459
+Lisa Jones
+04/10/1999
+Spec
+45720589
+William Smith
+29/05/1999
+Spec
+43922071
+Jennifer Thomas
+12/01/1995
+Intern
+43846361
+Christopher Davis
+15/12/2004
+Sr. Spec
+38382225
+Mary Jones
+15/12/1990
+Staff
+37329138
+Anthony Williams
+06/12/1992
+TL
+36653701
+David Johnson
+16/06/2003
+TL
+34803051
+Thomas Miller
+11/05/1997
+Staff
+34255925
+Nancy Davis
+14/02/1998
+Spec
+31209702
+James Brown
+14/04/1999
+CTO
+29754479
+Robert Garcia
+11/11/1990
+CEO
+28357670
+Lisa Martin
+24/10/1995
+CEO
+26326862
+Nancy Anderson
+29/12/1990
+Intern
+26274021
+Linda Garcia
+11/11/1991
+Spec
+25158998
+Sarah Martin
+13/10/1990
+CTO
+24538275
+Sarah Martin
+03/12/1993
+Sr. Spec
+24279812
+Robert Davis
+08/10/1992
+CEO
+21476595
+Mark Jones
+28/01/1994
+CEO
+20342491
+Robert Brown
+17/08/1999
+Intern
+19321028
+James Jackson
+18/06/2003
+Sr. Spec
+17124063
+Sarah Smith
+23/05/2001
+COO
+15389046
+Richard Davis
+30/08/1996
+CTO
+14930890
+Richard Jones
+30/07/1999
+Intern
+13927262
+John Davis
+25/01/2004
+VP
+12275110
+Linda Wilson
+17/08/1990
+Intern
+12188931
+James Williams
+13/12/2003
+CEO
+11859180

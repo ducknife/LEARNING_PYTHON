@@ -1,0 +1,281 @@
+70
+Sarah Martin
+27/07/1992
+VP
+99311615
+David Brown
+18/03/1992
+COO
+98627006
+Patricia Garcia
+26/09/1997
+CEO
+97894732
+Joseph Moore
+08/01/2000
+Spec
+97567597
+Barbara Jones
+04/09/1997
+Intern
+96626793
+Jessica Garcia
+16/03/2003
+VP
+94792432
+Linda Hernandez
+14/09/2004
+Intern
+94215473
+William Rodriguez
+24/05/1992
+CFO
+93228367
+Anthony Hernandez
+03/08/1992
+COO
+92192759
+John Gonzalez
+31/07/2000
+CTO
+88747970
+William Davis
+19/05/2002
+CFO
+88626744
+Michael Gonzalez
+26/09/1993
+CFO
+88104918
+Lisa Martinez
+12/03/1996
+CFO
+87755303
+Jessica Gonzalez
+29/05/1993
+Sr. Spec
+86517446
+Sarah Jones
+28/04/1994
+Sr. Spec
+84091542
+Mary Moore
+11/09/1997
+CEO
+83326322
+Jennifer Wilson
+25/05/1994
+Sr. Mgr
+79869567
+Susan Rodriguez
+07/09/1997
+Sr. Mgr
+78791616
+Barbara Gonzalez
+31/07/1998
+CEO
+78177913
+Charles Davis
+16/05/2001
+Mgr
+77639541
+Elizabeth Smith
+03/03/1991
+CEO
+77501140
+John Davis
+04/07/2000
+COO
+77378228
+Elizabeth Brown
+31/12/1996
+CEO
+76814064
+Richard Garcia
+14/12/1993
+Sr. Mgr
+73392750
+Betty Garcia
+16/12/1996
+Spec
+72889490
+Michael Miller
+27/10/2002
+CEO
+71182880
+Michael Johnson
+13/07/1996
+Intern
+69972106
+William Davis
+27/12/1990
+CFO
+68919279
+Barbara Thomas
+08/04/2003
+Dir.
+67915215
+Linda Hernandez
+25/03/2004
+CTO
+67493938
+Robert Rodriguez
+25/10/2003
+Sr. Mgr
+66436277
+Nancy Thomas
+17/11/1995
+Intern
+65742770
+Joseph Jones
+02/08/1990
+TL
+61413612
+Linda Gonzalez
+09/02/1995
+Staff
+59722292
+Nancy Martinez
+04/10/1994
+CTO
+59022884
+Joseph Davis
+04/12/1995
+CTO
+58391492
+Michael Brown
+20/09/2002
+VP
+58359226
+Sarah Martinez
+06/09/1997
+VP
+57982721
+Nancy Miller
+20/12/1993
+VP
+55469290
+Nancy Gonzalez
+21/10/1995
+CFO
+55425969
+Jessica Martinez
+30/04/1995
+Spec
+54712864
+Margaret Johnson
+12/05/1998
+CTO
+53113541
+William Smith
+23/06/1997
+Sr. Spec
+50251055
+Margaret Hernandez
+19/12/1991
+Sr. Spec
+49658236
+Margaret Martinez
+20/11/1993
+Staff
+48660744
+Mark Martinez
+08/10/1994
+COO
+47039652
+James Johnson
+20/04/1994
+CTO
+46047347
+Michael Martinez
+01/01/2002
+Sr. Mgr
+45634179
+Charles Anderson
+05/02/2004
+CEO
+41992669
+Linda Miller
+26/09/2002
+COO
+41655311
+Jessica Taylor
+05/12/1998
+Mgr
+41045833
+Anthony Anderson
+06/02/2000
+TL
+39686868
+Sarah Davis
+22/04/1993
+Dir.
+39009534
+Karen Smith
+14/06/1992
+Dir.
+34479354
+James Miller
+02/10/1990
+Sr. Mgr
+32424138
+Karen Taylor
+24/10/2003
+Mgr
+30196563
+Sandra Martinez
+16/11/2000
+Mgr
+28326400
+William Davis
+05/04/2002
+Mgr
+26649433
+Joseph Lopez
+13/06/2000
+Dir.
+25601393
+Daniel Martin
+26/03/1999
+Staff
+25431812
+Mary Hernandez
+01/10/2003
+Sr. Mgr
+24400895
+Elizabeth Jackson
+14/01/1994
+Sr. Mgr
+23314351
+Jessica Miller
+16/10/1998
+Intern
+21170854
+William Hernandez
+13/12/2003
+Spec
+20185185
+Karen Hernandez
+12/05/1990
+Spec
+18600467
+Linda Williams
+25/11/1991
+CFO
+15914355
+Karen Hernandez
+12/06/2002
+Staff
+15500037
+Christopher Martinez
+04/09/2003
+CEO
+14480101
+Lisa Jackson
+25/11/1994
+CTO
+12560022
+Thomas Jones
+11/12/1997
+Intern
+11025544

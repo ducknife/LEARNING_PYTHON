@@ -1,0 +1,52 @@
+[
+    [
+        "An Rau Cai",
+        "2025-07-15",
+        true
+    ],
+    [
+        "Learn Ruby",
+        "2025-07-15",
+        false
+    ],
+    [
+        "Learn Django",
+        "2025-07-15",
+        false
+    ],
+    [
+        "Learn Flask",
+        "2025-07-15",
+        false
+    ],
+    [
+        "Learn Scikit-Learn",
+        "2025-07-15",
+        false
+    ],
+    [
+        "Learn Java",
+        "2025-07-15",
+        false
+    ],
+    [
+        "Learn Pytorch",
+        "2025-07-15",
+        false
+    ],
+    [
+        "Learn Typescript",
+        "2025-07-15",
+        false
+    ],
+    [
+        "Learn Tensorflow",
+        "2025-07-15 19:03:47",
+        false
+    ],
+    [
+        "Learn System Operations",
+        "2025-07-15 19:11:57",
+        false
+    ]
+]

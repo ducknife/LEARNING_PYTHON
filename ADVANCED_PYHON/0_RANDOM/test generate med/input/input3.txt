@@ -1,0 +1,41 @@
+10
+Margaret Taylor
+25/12/1991
+CEO
+51850917
+Linda Taylor
+28/01/1999
+CEO
+61756546
+Susan Moore
+23/11/1995
+CFO
+84057466
+Sarah Martinez
+12/10/1998
+Intern
+36724041
+Linda Anderson
+24/12/1993
+Sr. Mgr
+56261630
+Richard Brown
+29/12/2001
+Staff
+63181308
+Nancy Martin
+03/04/2003
+CFO
+93550586
+Charles Gonzalez
+11/07/1991
+TL
+38205467
+Mark Moore
+08/02/1993
+Mgr
+16757489
+Nancy Jones
+25/04/1993
+CFO
+79172801

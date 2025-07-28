@@ -1,0 +1,241 @@
+60
+Barbara Jones
+20/08/1995
+Intern
+99673915
+David Davis
+25/04/1993
+CTO
+98013774
+Elizabeth Smith
+20/09/1990
+Sr. Spec
+97215950
+Jennifer Hernandez
+25/01/1996
+Dir.
+91717863
+Barbara Martinez
+16/05/1996
+TL
+91491651
+Elizabeth Jones
+10/06/1992
+Sr. Mgr
+89140485
+Joseph Wilson
+14/06/1992
+COO
+88837987
+Mary Gonzalez
+02/11/1998
+Sr. Mgr
+88543219
+Margaret Taylor
+23/02/2004
+CFO
+87769219
+Mary Miller
+15/01/2003
+Intern
+86443365
+Robert Martinez
+14/12/2002
+Spec
+85663944
+James Brown
+30/10/1994
+Staff
+84202193
+Mary Smith
+29/03/2003
+Spec
+82142857
+Betty Smith
+07/11/1992
+COO
+81550702
+Anthony Martin
+14/05/1992
+CEO
+81160890
+Richard Moore
+11/06/1991
+CEO
+79626590
+Robert Rodriguez
+07/10/1990
+Spec
+79393145
+Thomas Brown
+07/12/2000
+COO
+78289932
+Margaret Anderson
+04/04/1994
+Sr. Mgr
+76591584
+Nancy Miller
+17/05/1998
+Sr. Spec
+75495099
+Joseph Smith
+15/09/1993
+Sr. Spec
+74184068
+Betty Moore
+08/06/1990
+Sr. Spec
+73982792
+Patricia Lopez
+21/12/1992
+CFO
+73641133
+Joseph Rodriguez
+23/05/2002
+Mgr
+70553038
+Thomas Rodriguez
+30/12/1990
+Sr. Mgr
+68606165
+Joseph Lopez
+15/12/2001
+Sr. Mgr
+68174854
+Matthew Taylor
+24/02/1997
+CFO
+66057311
+Jennifer Davis
+25/03/1991
+VP
+64350317
+James Garcia
+26/08/1996
+TL
+63139341
+Sandra Garcia
+16/04/1994
+COO
+61434717
+James Gonzalez
+10/07/1992
+Sr. Mgr
+61019994
+Daniel Moore
+03/05/1990
+COO
+58670820
+Michael Johnson
+30/08/1991
+VP
+52926073
+Christopher Lopez
+20/05/1998
+CFO
+52665392
+Joseph Hernandez
+24/07/1991
+Sr. Mgr
+50617878
+Mark Williams
+16/08/1991
+Dir.
+46338981
+Margaret Lopez
+08/04/1997
+TL
+42681696
+James Jones
+19/05/1996
+Spec
+42038421
+John Moore
+13/03/1999
+CEO
+41132440
+Barbara Anderson
+18/07/1996
+Dir.
+40357712
+Robert Martin
+23/04/2002
+Dir.
+39676084
+Mary Hernandez
+10/08/1997
+Staff
+35266534
+Patricia Martin
+03/11/1992
+Spec
+34316564
+Mark Thomas
+08/08/1992
+CTO
+33498871
+Michael Garcia
+10/05/1997
+CFO
+32710240
+James Brown
+24/01/1992
+VP
+31833760
+John Davis
+26/04/1998
+TL
+31554895
+Thomas Garcia
+02/02/1999
+Mgr
+31307576
+Nancy Johnson
+18/06/1998
+Staff
+29333221
+Christopher Jones
+20/05/1990
+CEO
+26031562
+Mary Anderson
+30/08/1994
+Staff
+25470210
+Daniel Moore
+07/09/1998
+Sr. Mgr
+23009795
+Karen Lopez
+06/11/1993
+Mgr
+22916848
+Karen Lopez
+14/11/1992
+CEO
+16184104
+Linda Davis
+02/07/1996
+Mgr
+14662666
+Daniel Smith
+23/11/1994
+Sr. Mgr
+14091515
+Daniel Taylor
+13/11/1999
+CEO
+12904824
+Mark Wilson
+01/01/1993
+Mgr
+12491413
+Matthew Jones
+17/08/1998
+Sr. Mgr
+10951749
+Sarah Brown
+08/03/1990
+CFO
+10684662

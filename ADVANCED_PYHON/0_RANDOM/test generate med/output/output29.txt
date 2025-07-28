@@ -1,0 +1,581 @@
+145
+John Moore
+02/09/2003
+Spec
+99198974
+Karen Williams
+31/10/2003
+CFO
+98988987
+Jennifer Moore
+08/10/2001
+CFO
+98233529
+Betty Martinez
+05/12/2000
+CEO
+98135022
+Betty Gonzalez
+15/10/1999
+Sr. Spec
+96669937
+Jennifer Jackson
+30/09/1995
+VP
+96120646
+Anthony Williams
+12/01/1998
+Sr. Spec
+94663331
+Robert Hernandez
+13/12/1995
+Sr. Spec
+94530279
+Charles Miller
+31/12/1990
+CFO
+94097906
+Richard Jackson
+15/01/2001
+TL
+93769901
+Charles Martin
+17/06/1999
+VP
+92894594
+Joseph Smith
+07/12/1998
+Intern
+92549243
+Mary Gonzalez
+08/07/1995
+CEO
+91630288
+Richard Martinez
+24/11/2001
+VP
+90494836
+Mary Jones
+24/06/2001
+VP
+90158523
+Jessica Martinez
+12/03/1997
+Sr. Mgr
+89603039
+Lisa Wilson
+28/02/2004
+Intern
+87109654
+Robert Rodriguez
+24/07/2003
+Staff
+86968057
+Jennifer Garcia
+31/03/1992
+Intern
+86827805
+Lisa Hernandez
+27/11/2000
+Sr. Spec
+86652787
+Michael Miller
+01/05/1997
+Sr. Mgr
+86450704
+Christopher Jackson
+29/09/2000
+Staff
+85715553
+William Hernandez
+29/04/2002
+Mgr
+85543710
+Anthony Rodriguez
+26/03/1994
+Sr. Mgr
+85252984
+Mary Smith
+05/04/1999
+CTO
+83380265
+Margaret Jones
+13/07/2004
+Sr. Spec
+80300931
+Elizabeth Martinez
+28/08/1990
+TL
+80290721
+Charles Gonzalez
+24/05/1991
+Dir.
+80237117
+Richard Moore
+08/04/2003
+TL
+79945906
+David Anderson
+19/01/2000
+Mgr
+79592598
+Christopher Davis
+03/01/1993
+Staff
+79371278
+Mark Davis
+22/01/1990
+VP
+79236380
+James Hernandez
+22/04/1993
+Mgr
+77988915
+James Rodriguez
+08/09/2001
+TL
+77182763
+Betty Smith
+17/05/2002
+Spec
+76068080
+Barbara Smith
+18/07/1995
+Sr. Spec
+75355320
+Sandra Garcia
+20/09/2004
+Mgr
+74226177
+Betty Johnson
+12/04/1990
+Spec
+73030343
+Mary Miller
+05/03/2000
+VP
+72206289
+Matthew Lopez
+13/02/2003
+TL
+71281396
+Mary Jones
+24/08/1992
+CEO
+70714224
+Susan Moore
+11/10/2001
+CTO
+69581949
+Patricia Garcia
+01/06/1995
+CEO
+69503422
+Matthew Martinez
+22/09/1992
+CEO
+68337725
+John Gonzalez
+13/10/1992
+Spec
+68130149
+John Jones
+09/11/1998
+Dir.
+67497598
+Susan Jackson
+19/03/2001
+CFO
+67057651
+Robert Martin
+25/10/1991
+VP
+65383827
+Mark Garcia
+27/08/1995
+COO
+65382944
+Karen Lopez
+01/02/2001
+Intern
+65301397
+Barbara Williams
+23/02/1995
+Dir.
+64878809
+Barbara Anderson
+26/07/1995
+Dir.
+64721780
+Jennifer Moore
+21/09/1996
+VP
+64570072
+Mary Anderson
+07/04/2004
+VP
+63740859
+Barbara Jackson
+29/12/1992
+COO
+63085029
+Charles Jones
+29/07/2001
+Dir.
+62059568
+Matthew Moore
+18/12/1997
+Spec
+61984347
+Anthony Martinez
+08/05/2004
+CEO
+61044170
+Patricia Martinez
+02/10/2002
+CFO
+60443764
+Patricia Smith
+18/09/2000
+Mgr
+59700753
+Richard Lopez
+31/01/1998
+CFO
+59086899
+Elizabeth Thomas
+02/06/1991
+Spec
+57753180
+Sarah Jones
+29/03/1997
+CFO
+57427043
+Richard Hernandez
+27/03/2000
+COO
+56741533
+Michael Moore
+27/08/1996
+Dir.
+56607300
+Jennifer Jackson
+13/08/1998
+Staff
+55410023
+Sandra Gonzalez
+08/07/1996
+COO
+54082030
+Joseph Jones
+20/03/1990
+CEO
+53558159
+Joseph Rodriguez
+16/07/1999
+CTO
+52156893
+Patricia Johnson
+12/04/1996
+CTO
+51392104
+John Thomas
+20/12/2000
+Mgr
+51286814
+Robert Taylor
+29/08/1994
+COO
+51247521
+Betty Thomas
+13/09/1996
+Mgr
+50823482
+Robert Davis
+23/01/2000
+Dir.
+50379137
+Michael Martin
+12/11/2003
+Intern
+50110999
+Thomas Jackson
+26/07/1993
+CEO
+49903010
+Sarah Hernandez
+24/01/2004
+Staff
+49808604
+Karen Rodriguez
+10/04/1996
+CFO
+49566999
+William Johnson
+23/04/2003
+Sr. Spec
+49016635
+Joseph Miller
+04/02/2003
+Sr. Mgr
+48790083
+Jessica Lopez
+18/07/1993
+VP
+48183900
+Michael Jackson
+03/06/2000
+CEO
+47529922
+James Rodriguez
+01/07/1999
+Sr. Mgr
+46297155
+Karen Anderson
+22/03/2003
+CFO
+45801889
+Karen Taylor
+04/03/1998
+Dir.
+45120886
+Nancy Garcia
+11/12/1996
+Spec
+44950349
+Thomas Garcia
+10/06/1996
+COO
+44901652
+Susan Davis
+20/03/1993
+VP
+43700203
+Matthew Gonzalez
+08/05/1993
+COO
+43382245
+Robert Hernandez
+31/05/1993
+Sr. Spec
+39675230
+Barbara Jones
+28/07/1992
+Staff
+39107516
+Margaret Garcia
+12/10/1995
+CTO
+38444286
+Matthew Hernandez
+05/02/2000
+CFO
+38384831
+Charles Hernandez
+25/11/2002
+Mgr
+37818009
+Michael Smith
+07/09/1991
+Sr. Mgr
+36603063
+James Williams
+04/12/2003
+TL
+35646458
+Michael Martinez
+03/03/2001
+Intern
+34822556
+Patricia Thomas
+07/04/1998
+COO
+34571933
+William Lopez
+26/06/1999
+Sr. Mgr
+33837090
+Mark Smith
+19/03/2001
+CTO
+33736231
+Christopher Taylor
+22/08/1994
+Spec
+33340957
+Richard Garcia
+28/07/1992
+TL
+33189963
+Elizabeth Martin
+26/03/1993
+Spec
+33062825
+Patricia Johnson
+03/10/2001
+Staff
+32200415
+Patricia Lopez
+28/05/1997
+CEO
+30675185
+Joseph Wilson
+06/09/2001
+VP
+30383587
+Susan Johnson
+23/02/2000
+CEO
+29381248
+Richard Lopez
+23/05/1997
+Staff
+28783801
+Nancy Jones
+28/03/2001
+VP
+28294357
+Barbara Wilson
+05/03/1995
+CFO
+27777549
+Sandra Davis
+16/01/2002
+Sr. Mgr
+26820375
+William Thomas
+02/11/1991
+CFO
+26504514
+William Rodriguez
+09/07/1999
+CTO
+26400146
+Lisa Brown
+07/06/2003
+Intern
+26156583
+Nancy Taylor
+17/07/2001
+Dir.
+26054890
+Linda Lopez
+13/11/1996
+VP
+25774177
+Elizabeth Martinez
+30/07/2000
+CTO
+24738736
+John Williams
+04/06/1998
+CEO
+24690491
+Sarah Moore
+19/03/2003
+VP
+23829173
+Linda Thomas
+25/02/2001
+COO
+23575087
+Barbara Jones
+15/10/1991
+Dir.
+22692709
+Susan Brown
+17/05/2002
+COO
+21779257
+Richard Jackson
+13/01/1990
+CFO
+20994038
+Nancy Martin
+25/02/2004
+CEO
+20918194
+Mark Moore
+10/12/2001
+Sr. Spec
+20290383
+Joseph Taylor
+17/09/2003
+CEO
+20162423
+Nancy Smith
+23/06/1992
+Spec
+19915354
+Jessica Miller
+26/09/2001
+Spec
+18875257
+Robert Smith
+14/12/2000
+CFO
+18605525
+Joseph Lopez
+20/11/1998
+CFO
+18115585
+Margaret Moore
+26/07/1993
+CTO
+17366919
+Mark Anderson
+02/02/1993
+COO
+17221964
+Linda Smith
+13/08/1994
+VP
+15752923
+Mark Moore
+03/07/2001
+CTO
+15739779
+Barbara Smith
+30/03/1995
+Mgr
+15451905
+Barbara Taylor
+12/04/2001
+TL
+14861718
+Patricia Wilson
+06/08/1996
+Spec
+13896856
+David Brown
+04/08/2002
+CTO
+13847808
+Jennifer Martin
+17/10/2001
+Intern
+13569552
+Matthew Jackson
+26/07/1997
+VP
+13518457
+Sarah Martinez
+10/07/2003
+Intern
+13499887
+James Martinez
+15/07/2004
+Staff
+11642790
+Nancy Martin
+13/10/2000
+Staff
+11577508
+Barbara Gonzalez
+06/05/1997
+Sr. Mgr
+11529487
+Mark Garcia
+27/08/1994
+Dir.
+10575609

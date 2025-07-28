@@ -1,0 +1,389 @@
+97
+Mark Gonzalez
+02/09/1997
+Sr. Spec
+97015857
+Sandra Taylor
+22/11/2001
+Dir.
+95968397
+Mark Thomas
+11/12/2001
+COO
+95291448
+Robert Moore
+30/09/1992
+Mgr
+94756472
+John Lopez
+13/05/1996
+Staff
+94470223
+Linda Martinez
+09/08/2002
+CFO
+91671740
+Jennifer Jones
+02/04/1990
+TL
+88006558
+Patricia Martin
+02/09/1990
+VP
+87543459
+Anthony Garcia
+30/06/1996
+Sr. Mgr
+86301383
+Thomas Johnson
+23/09/2002
+Intern
+86085411
+Jessica Davis
+24/09/2000
+CEO
+84371650
+Susan Thomas
+28/11/1999
+Sr. Spec
+78687886
+Betty Jackson
+15/05/1999
+Sr. Spec
+78666929
+Michael Martin
+19/09/2000
+Mgr
+78648959
+Susan Rodriguez
+05/07/1991
+CFO
+75822679
+Barbara Miller
+30/09/1996
+Dir.
+75395422
+David Gonzalez
+30/09/2002
+Sr. Mgr
+74011491
+Elizabeth Martinez
+13/05/2004
+Spec
+73601488
+Susan Moore
+12/02/1999
+Mgr
+73584739
+Karen Rodriguez
+14/05/2004
+Intern
+70998784
+Betty Smith
+27/09/1997
+VP
+70379609
+Jennifer Johnson
+12/06/1995
+Intern
+69495741
+Jennifer Wilson
+01/05/2003
+Sr. Mgr
+69286492
+Sarah Johnson
+24/06/1991
+CFO
+68668431
+Mary Martin
+02/11/1998
+Mgr
+67703791
+Daniel Hernandez
+23/11/1998
+CEO
+67653719
+Mary Rodriguez
+08/05/1999
+Spec
+66778013
+Jennifer Jones
+01/04/2004
+CEO
+65399488
+Michael Gonzalez
+02/04/1996
+Spec
+62888117
+Mark Taylor
+29/12/2003
+TL
+61866713
+Daniel Smith
+26/06/1992
+Sr. Mgr
+61842765
+Sarah Gonzalez
+04/02/1996
+Sr. Mgr
+61531857
+James Jackson
+25/03/1998
+COO
+61307490
+Mary Garcia
+07/02/2000
+Sr. Mgr
+59938023
+Charles Anderson
+17/12/2004
+Sr. Mgr
+57312525
+Richard Rodriguez
+17/10/1995
+Dir.
+57138753
+Michael Smith
+27/07/2001
+COO
+56334895
+Anthony Smith
+14/09/1992
+CFO
+56219281
+Margaret Lopez
+13/02/1998
+Sr. Mgr
+56051006
+Matthew Smith
+08/12/1998
+CEO
+56020038
+Nancy Rodriguez
+11/02/2000
+Spec
+54837396
+Jessica Moore
+13/06/2002
+Staff
+54651934
+Mark Hernandez
+01/01/1998
+CEO
+54525720
+Joseph Davis
+05/05/2002
+CTO
+53501822
+Linda Davis
+14/11/1994
+Intern
+49575410
+Robert Martin
+11/01/1993
+COO
+49056604
+David Garcia
+11/08/1995
+CFO
+48755397
+William Jones
+12/05/1994
+COO
+48074227
+Richard Jones
+13/05/2002
+Staff
+47803617
+Nancy Martinez
+27/07/2003
+TL
+47541265
+Nancy Smith
+10/11/2003
+CFO
+47321415
+Barbara Rodriguez
+29/04/1996
+CEO
+46801009
+Betty Davis
+04/03/2004
+Spec
+46576022
+Christopher Taylor
+25/05/1999
+Staff
+46195005
+Anthony Gonzalez
+25/02/1994
+Mgr
+45837300
+Barbara Martin
+17/02/2002
+CFO
+45217347
+Daniel Davis
+26/01/2002
+Sr. Spec
+44163608
+Jessica Hernandez
+27/02/1995
+CFO
+43692989
+John Smith
+02/10/1992
+Spec
+42142404
+Charles Hernandez
+04/02/1990
+Mgr
+41540582
+Christopher Lopez
+20/08/1992
+CEO
+41508834
+Linda Lopez
+21/05/2004
+Mgr
+41454949
+Jennifer Smith
+15/01/1991
+Dir.
+41371525
+Robert Miller
+30/08/1995
+Staff
+40988583
+Anthony Thomas
+11/11/1993
+Sr. Mgr
+39758501
+Karen Moore
+22/11/1994
+CFO
+39595341
+James Jones
+15/09/1999
+Sr. Spec
+37485068
+Betty Jones
+12/09/2001
+Spec
+37232983
+Mark Brown
+22/12/1990
+COO
+36884850
+Mary Wilson
+28/12/1995
+TL
+35681037
+Daniel Brown
+15/12/1999
+Spec
+34683154
+Mark Anderson
+28/12/1993
+Spec
+33527103
+Lisa Thomas
+14/02/2004
+CEO
+33427348
+Richard Jones
+22/09/1994
+VP
+32908624
+Mary Moore
+26/02/1990
+Dir.
+32825678
+Margaret Rodriguez
+30/03/1997
+Staff
+32290015
+Betty Wilson
+10/02/1993
+CEO
+32070983
+Mary Johnson
+08/01/1990
+COO
+31668805
+Matthew Garcia
+29/09/2003
+TL
+31000735
+William Martinez
+28/01/2002
+CFO
+30784819
+Anthony Jones
+19/05/1995
+Dir.
+29061938
+Sandra Gonzalez
+23/12/1994
+VP
+28879233
+Karen Johnson
+25/10/1997
+Sr. Spec
+27570333
+Linda Johnson
+16/09/1994
+Staff
+26962601
+Lisa Gonzalez
+24/05/2002
+Staff
+26199432
+Jessica Davis
+03/03/1990
+Mgr
+25869922
+Richard Wilson
+09/08/1996
+Spec
+23083469
+Susan Wilson
+01/12/1992
+TL
+22011232
+Sarah Rodriguez
+13/03/1994
+Staff
+21239584
+Lisa Garcia
+02/06/1997
+Sr. Mgr
+19099454
+William Taylor
+21/04/2001
+Sr. Mgr
+18387074
+Karen Rodriguez
+14/05/1995
+CFO
+15816122
+Margaret Martinez
+09/05/2001
+COO
+15043101
+Daniel Moore
+22/08/1993
+TL
+13405592
+Mary Lopez
+17/08/1999
+TL
+12777303
+Karen Lopez
+02/06/2003
+TL
+11294453
+Patricia Brown
+13/09/1994
+Mgr
+10213501

@@ -1,0 +1,15 @@
+{
+    "students": {
+        "name": "Daskov Niev",
+        "age": 20,
+        "major": "CS",
+        "job": "AI engineer",
+        "programming language": [
+            "C",
+            "C++",
+            "JavaScript",
+            "Python",
+            "Java"
+        ]
+    }
+}

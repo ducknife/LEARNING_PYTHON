@@ -1,0 +1,141 @@
+35
+Jennifer Garcia
+04/04/2004
+Sr. Mgr
+68550464
+Charles Lopez
+21/04/1994
+COO
+13790667
+Susan Hernandez
+28/04/2001
+CTO
+22006769
+Linda Gonzalez
+31/01/1998
+TL
+95145213
+Charles Gonzalez
+14/12/2001
+Spec
+84259686
+Christopher Garcia
+29/07/1995
+Staff
+52237715
+Linda Davis
+24/11/1995
+Intern
+82693405
+Michael Rodriguez
+03/10/1999
+Mgr
+96243463
+Barbara Martin
+23/01/2000
+CEO
+34616710
+Sarah Gonzalez
+24/12/1990
+CEO
+62764584
+Charles Brown
+13/01/2002
+Staff
+81648165
+Sarah Johnson
+04/01/2001
+CEO
+96989573
+Sarah Jones
+26/04/1998
+Spec
+97168663
+Michael Martinez
+26/07/1997
+Sr. Mgr
+95080617
+Anthony Taylor
+04/09/2001
+CEO
+49180412
+Christopher Thomas
+17/03/2003
+Sr. Spec
+77948077
+Nancy Jones
+22/02/1997
+Sr. Mgr
+57970984
+Sarah Jones
+20/08/1994
+TL
+73347956
+Linda Hernandez
+30/08/2004
+CFO
+81316230
+John Taylor
+04/03/1995
+Mgr
+55705575
+Jennifer Anderson
+13/07/1990
+Spec
+13360131
+Anthony Garcia
+21/02/1991
+COO
+43625154
+Daniel Martin
+09/01/2004
+Intern
+36833783
+Daniel Wilson
+26/10/1999
+Sr. Mgr
+65229636
+Richard Williams
+16/03/1997
+Spec
+59197011
+Matthew Brown
+10/02/2000
+Sr. Spec
+33880866
+Daniel Wilson
+30/12/2003
+Dir.
+85728602
+Joseph Gonzalez
+17/06/1992
+CEO
+44641747
+Joseph Wilson
+27/03/1998
+Sr. Spec
+24248146
+Linda Williams
+05/10/1999
+CEO
+57698735
+William Jackson
+12/01/1991
+Sr. Mgr
+30787589
+Anthony Smith
+29/06/1990
+Mgr
+71328737
+Lisa Gonzalez
+08/04/2002
+VP
+84852042
+David Hernandez
+14/05/1998
+Staff
+64250804
+Robert Hernandez
+03/02/2003
+TL
+93434386

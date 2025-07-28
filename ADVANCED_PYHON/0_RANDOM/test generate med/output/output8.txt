@@ -1,0 +1,117 @@
+29
+Mark Wilson
+05/03/1991
+Mgr
+97289938
+Mark Martinez
+17/10/1995
+Sr. Mgr
+97001877
+John Smith
+21/04/2003
+TL
+87474782
+Karen Taylor
+19/06/1995
+CTO
+85231087
+Betty Wilson
+25/11/2002
+CEO
+85107235
+Elizabeth Moore
+11/05/1992
+Staff
+84296006
+Betty Gonzalez
+13/07/1997
+CEO
+83856240
+Michael Jones
+17/09/1995
+VP
+83497834
+Thomas Lopez
+12/06/2001
+CTO
+78994503
+Anthony Lopez
+05/11/2004
+Sr. Spec
+77694112
+Thomas Rodriguez
+14/07/1993
+Intern
+75865948
+Christopher Rodriguez
+20/10/1994
+Sr. Mgr
+74124456
+Karen Rodriguez
+16/05/1993
+TL
+64450581
+Joseph Williams
+03/04/1999
+Staff
+59655860
+Nancy Hernandez
+17/07/1995
+VP
+59646809
+Betty Johnson
+25/08/1998
+Dir.
+58237459
+James Anderson
+24/01/2002
+VP
+56762787
+Daniel Lopez
+22/07/1996
+Spec
+50172743
+Patricia Gonzalez
+07/12/2000
+TL
+44539055
+William Moore
+30/01/1994
+COO
+40754674
+Barbara Anderson
+03/05/1996
+Staff
+36453358
+Nancy Brown
+23/08/2003
+Sr. Spec
+35776522
+Robert Wilson
+23/07/2004
+Sr. Spec
+32591049
+Sandra Gonzalez
+27/07/1991
+Staff
+27532866
+Linda Miller
+02/10/1990
+CTO
+27372504
+David Garcia
+12/02/2002
+Dir.
+22628409
+Michael Jackson
+21/04/1993
+COO
+17695730
+Susan Rodriguez
+08/08/1996
+Sr. Mgr
+14041240
+Margaret Taylor
+25/11/2001
+VP
+14028569

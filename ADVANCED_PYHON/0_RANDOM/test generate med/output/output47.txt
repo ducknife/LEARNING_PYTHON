@@ -1,0 +1,149 @@
+37
+Charles Jones
+19/09/1995
+CEO
+99078826
+Richard Miller
+28/02/1991
+Sr. Mgr
+95069118
+Jennifer Lopez
+03/11/2003
+CTO
+93534748
+Sarah Miller
+12/05/2001
+Dir.
+93073589
+Margaret Johnson
+29/03/1990
+Staff
+92644615
+Sarah Taylor
+17/02/1994
+COO
+88381341
+Linda Johnson
+15/10/1998
+Spec
+87122269
+Anthony Gonzalez
+21/08/2003
+VP
+84527696
+Thomas Jones
+08/06/2003
+Sr. Spec
+84228941
+Thomas Jackson
+07/07/1993
+CEO
+83976996
+Lisa Davis
+07/12/2004
+TL
+80156278
+Jessica Miller
+25/09/1990
+CFO
+78440712
+Christopher Jackson
+25/05/1992
+CTO
+71947029
+David Anderson
+24/01/1992
+CTO
+67831464
+Susan Rodriguez
+30/07/1991
+CTO
+66822031
+Betty Johnson
+16/12/2004
+Staff
+65700565
+Richard Brown
+10/12/1992
+Staff
+65332323
+Linda Anderson
+19/07/1995
+CFO
+65068480
+Jennifer Brown
+12/05/2003
+COO
+62920570
+Barbara Williams
+02/04/2003
+CTO
+55855145
+Barbara Brown
+29/09/2003
+Mgr
+50715830
+Karen Anderson
+16/09/2000
+Mgr
+49156416
+Patricia Davis
+20/08/1992
+CFO
+46296202
+Joseph Jackson
+09/10/1995
+Intern
+45488071
+Thomas Brown
+25/09/1992
+CEO
+42685323
+Robert Williams
+20/02/1994
+Staff
+42288606
+Betty Jones
+09/11/1990
+Dir.
+41722602
+Jennifer Taylor
+18/06/1995
+CTO
+38093780
+Mark Moore
+31/07/1990
+Intern
+34957905
+Betty Thomas
+25/10/2003
+Dir.
+34680866
+Robert Miller
+19/05/1990
+Dir.
+30805140
+Thomas Taylor
+04/01/1995
+Mgr
+27224715
+Matthew Martinez
+25/01/1998
+Spec
+26946415
+Thomas Miller
+08/05/2004
+CEO
+18665517
+Margaret Jones
+17/02/2001
+Mgr
+16118272
+Anthony Taylor
+02/03/1991
+Mgr
+12942366
+Lisa Williams
+19/08/1998
+Sr. Mgr
+11182982

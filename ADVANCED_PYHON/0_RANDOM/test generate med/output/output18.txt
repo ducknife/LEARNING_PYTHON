@@ -1,0 +1,245 @@
+61
+Betty Taylor
+15/11/1990
+TL
+97218073
+Patricia Davis
+06/04/1993
+Sr. Mgr
+95014216
+Mary Johnson
+07/03/1991
+VP
+94711301
+Susan Williams
+14/10/2001
+CTO
+93473885
+Jennifer Williams
+08/01/1995
+Mgr
+93198176
+Margaret Martin
+03/08/1996
+VP
+93093997
+Margaret Lopez
+15/01/2001
+Mgr
+91854330
+Sarah Gonzalez
+22/07/1997
+Dir.
+89820347
+Susan Davis
+15/04/1998
+COO
+88669458
+Betty Martinez
+14/03/1995
+CFO
+88125528
+John Hernandez
+04/05/1996
+Intern
+85650553
+Lisa Thomas
+14/01/2001
+CTO
+85237508
+David Johnson
+27/08/1998
+Mgr
+84351774
+Betty Miller
+19/06/1996
+Spec
+82629380
+William Lopez
+13/08/1996
+Staff
+81491270
+Mary Wilson
+22/07/2003
+Mgr
+81150748
+Charles Garcia
+08/04/1995
+Intern
+79941039
+Richard Thomas
+21/05/2003
+Mgr
+79811649
+Barbara Gonzalez
+20/07/2002
+Staff
+79177455
+William Johnson
+01/03/2004
+Dir.
+78194713
+Elizabeth Jones
+22/05/1990
+Sr. Spec
+77032864
+William Martinez
+22/08/1992
+Dir.
+76965001
+Robert Moore
+30/05/1993
+CEO
+76097598
+Jennifer Thomas
+04/09/1991
+Spec
+75624165
+Sarah Brown
+28/12/2001
+CEO
+74725185
+Anthony Jackson
+09/03/1999
+Dir.
+74662501
+Elizabeth Hernandez
+25/04/1991
+TL
+73331008
+Mark Rodriguez
+23/03/1990
+Sr. Spec
+73271697
+Michael Jones
+20/03/2001
+Intern
+71684094
+Sarah Jackson
+01/09/1999
+CFO
+71465556
+Barbara Jackson
+30/08/1992
+VP
+68347255
+Jennifer Rodriguez
+30/06/2000
+Sr. Mgr
+66480645
+Sandra Williams
+29/03/2001
+Staff
+66377090
+Jennifer Davis
+14/09/2002
+CFO
+66151923
+Daniel Moore
+26/11/2003
+Dir.
+64055623
+Matthew Gonzalez
+27/02/2003
+Spec
+62074005
+Jessica Jackson
+19/02/1997
+Dir.
+58365252
+Lisa Smith
+25/05/2003
+CFO
+57622102
+Anthony Lopez
+05/06/1995
+VP
+57250154
+Daniel Brown
+24/04/1991
+VP
+56435199
+Betty Brown
+22/03/1995
+TL
+54529570
+Christopher Gonzalez
+05/03/2002
+Intern
+53872639
+John Thomas
+05/04/1990
+Intern
+52829365
+Linda Moore
+28/01/1996
+CTO
+51171527
+Sarah Davis
+10/06/2001
+CEO
+48997758
+Nancy Brown
+20/12/1994
+VP
+44875380
+Joseph Garcia
+02/09/1992
+Sr. Spec
+42380475
+Linda Martin
+30/05/1998
+Dir.
+41799332
+Matthew Martinez
+14/12/1998
+CTO
+40703301
+Anthony Rodriguez
+28/07/2000
+COO
+36383071
+Jessica Davis
+20/01/2004
+Mgr
+36240958
+William Hernandez
+18/01/1995
+Spec
+35769379
+Elizabeth Thomas
+18/12/1991
+Dir.
+31498035
+Anthony Rodriguez
+18/05/2002
+COO
+28954087
+Mark Martinez
+09/10/2004
+CFO
+28636948
+Richard Anderson
+13/07/1996
+Spec
+26169891
+Thomas Jones
+15/06/1995
+Mgr
+19980851
+Mark Martinez
+03/12/2003
+CEO
+19758122
+John Brown
+13/04/1990
+COO
+16233895
+Lisa Rodriguez
+09/07/2001
+TL
+13130360
+James Smith
+25/06/1992
+Mgr
+11130922

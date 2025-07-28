@@ -1,0 +1,73 @@
+18
+Christopher Brown
+16/12/1998
+Sr. Spec
+99740386
+Sandra Moore
+07/03/1990
+Sr. Spec
+91276294
+Betty Martin
+08/01/2004
+TL
+89645304
+David Miller
+29/02/2000
+Dir.
+88503595
+Margaret Jackson
+04/01/2001
+Sr. Mgr
+88006381
+Betty Rodriguez
+07/06/2004
+CEO
+76683163
+Jessica Gonzalez
+27/06/2001
+Spec
+63137373
+Barbara Hernandez
+16/05/1996
+Dir.
+61382577
+Mark Anderson
+17/05/1991
+VP
+55285466
+Barbara Wilson
+28/07/2002
+CFO
+50167390
+Mary Martin
+16/08/1993
+CFO
+49114921
+Jessica Thomas
+12/11/2004
+TL
+44275339
+Betty Smith
+06/01/1993
+TL
+43315668
+Michael Martin
+22/07/1994
+CTO
+33121056
+Jennifer Hernandez
+25/05/1991
+Staff
+30427705
+Margaret Johnson
+08/07/1996
+Sr. Mgr
+27544341
+Lisa Brown
+01/12/1995
+VP
+26412478
+Jennifer Williams
+28/02/2002
+Sr. Spec
+13142899

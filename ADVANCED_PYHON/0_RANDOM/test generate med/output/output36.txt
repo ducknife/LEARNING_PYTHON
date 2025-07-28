@@ -1,0 +1,113 @@
+28
+Karen Martin
+23/02/1991
+CFO
+94541921
+Patricia Lopez
+09/08/1992
+Spec
+92414512
+Sarah Jones
+15/10/1995
+Intern
+91553283
+Matthew Jones
+02/06/2001
+Sr. Spec
+89204591
+Christopher Jones
+09/11/2004
+Sr. Spec
+85464066
+Lisa Garcia
+08/08/2004
+Dir.
+83304651
+Lisa Lopez
+28/10/1993
+CEO
+81060512
+Thomas Anderson
+21/11/1991
+CTO
+72379051
+Robert Anderson
+10/12/1998
+CEO
+72184314
+Jennifer Martinez
+30/11/1991
+Staff
+70294848
+Margaret Garcia
+10/04/1990
+COO
+68208113
+Christopher Anderson
+12/12/1999
+COO
+66551287
+Elizabeth Johnson
+12/09/2000
+Spec
+63705180
+Margaret Martin
+20/02/1993
+Staff
+61556803
+David Jackson
+01/07/1994
+COO
+58420101
+Linda Martinez
+10/10/2004
+TL
+58409617
+Patricia Wilson
+20/06/1993
+TL
+57719629
+Matthew Jackson
+14/05/2003
+TL
+51918144
+Mark Gonzalez
+11/01/2000
+COO
+46819305
+Matthew Smith
+25/03/1994
+Sr. Spec
+35314422
+Michael Smith
+22/03/1999
+Sr. Spec
+35197051
+William Jackson
+10/04/1998
+Sr. Spec
+33000323
+Anthony Gonzalez
+27/02/1992
+CTO
+30017953
+Betty Moore
+28/05/2003
+Intern
+28105266
+Lisa Johnson
+24/04/2000
+COO
+27698006
+Mary Taylor
+05/05/1999
+Mgr
+23800111
+Barbara Jackson
+12/07/2001
+Staff
+22079491
+Elizabeth Williams
+06/05/1990
+VP
+11461395

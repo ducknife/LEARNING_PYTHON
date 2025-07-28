@@ -1,0 +1,187 @@
+{
+    "user0": {
+        "name": "Chị Bảo Mai",
+        "first name": "John",
+        "last name": "Lê",
+        "date of birth": "2006-06-05",
+        "address": "Quận JohnThị xã\n9 Vũ Đường, 477597",
+        "country": "Zambia",
+        "city": "JohnPhường",
+        "phone number": "+84-71-317406",
+        "email": "duongjane@example.org",
+        "domain": "bui.com",
+        "url": "https://www.vu.com/",
+        "user name": "jane83",
+        "company": "Lê Công ty Trách nhiệm hữu hạn",
+        "job": "Thợ xây",
+        "profile": {
+            "job": "Kỹ sư phần mềm",
+            "company": "Phạm và đối tác Công ty Trách nhiệm hữu hạn",
+            "ssn": "783-96-7224",
+            "residence": "5 Lê Ngõ\nJohnHuyện, 159134",
+            "current_location": [
+                "74.773794",
+                "-55.547596"
+            ],
+            "blood_group": "A+",
+            "website": [
+                "http://le.com/"
+            ],
+            "username": "buijohn",
+            "name": "Bà Duyên Phạm",
+            "sex": "F",
+            "address": "880 Mai Làng\nHuyện JohnThị xã, 700624",
+            "mail": "ole@hotmail.com",
+            "birthdate": "1936-04-28"
+        }
+    },
+    "user1": {
+        "name": "Châu Dương",
+        "first name": "John",
+        "last name": "Phạm",
+        "date of birth": "2005-06-25",
+        "address": "38 Hoàng Khu\nJohnQuận, 761151",
+        "country": "Eritrea",
+        "city": "Thành phố JaneHuyện",
+        "phone number": "08 1178 9033",
+        "email": "jane18@example.com",
+        "domain": "vu.com",
+        "url": "http://www.duong.com/",
+        "user name": "jane13",
+        "company": "Nguyễn Công ty Hợp danh",
+        "job": "Kiểm toán",
+        "profile": {
+            "job": "Kiểm toán",
+            "company": "Dương Tập Đoàn",
+            "ssn": "668-71-2964",
+            "residence": "0 Nguyễn Ngõ\nThị xã JohnPhường, 819091",
+            "current_location": [
+                "83.860712",
+                "75.972904"
+            ],
+            "blood_group": "O+",
+            "website": [
+                "http://www.tran.net/",
+                "http://www.mai.com/"
+            ],
+            "username": "john05",
+            "name": "Thành Lê",
+            "sex": "M",
+            "address": "4 Lê Ngõ\nQuận JaneQuận, 858071",
+            "mail": "johndang@gmail.com",
+            "birthdate": "1992-10-14"
+        }
+    },
+    "user2": {
+        "name": "Ngọc Bùi",
+        "first name": "John",
+        "last name": "Mai",
+        "date of birth": "2005-04-30",
+        "address": "5 Phạm Ngõ\nThị xã JohnHuyện, 258222",
+        "country": "Azerbaijan",
+        "city": "Thị xã JohnThành phố",
+        "phone number": "+84-09-304282",
+        "email": "john36@example.com",
+        "domain": "vu.com",
+        "url": "http://le.net/",
+        "user name": "johnle",
+        "company": "Hoàng Công ty TNHH",
+        "job": "Chuyên viên tư vấn tuyển sinh",
+        "profile": {
+            "job": "Kỹ sư sản xuất",
+            "company": "Vũ và Bùi Doanh nghiệp tư nhân",
+            "ssn": "672-65-7360",
+            "residence": "2 Mai Dãy\nThị xã JohnQuận, 574996",
+            "current_location": [
+                "62.422008",
+                "58.590058"
+            ],
+            "blood_group": "B-",
+            "website": [
+                "https://mai.com/",
+                "https://www.tran.com/"
+            ],
+            "username": "john06",
+            "name": "Bảo Nguyễn",
+            "sex": "M",
+            "address": "225 Jane Số\nJohnHuyện, 189039",
+            "mail": "jane86@yahoo.com",
+            "birthdate": "1910-06-25"
+        }
+    },
+    "user3": {
+        "name": "Xuân Đặng",
+        "first name": "Jane",
+        "last name": "Bùi",
+        "date of birth": "2005-04-10",
+        "address": "Huyện JaneThành phố\n05 John Khu, 792048",
+        "country": "Estonia",
+        "city": "JohnQuận",
+        "phone number": "07 6432973",
+        "email": "janevu@example.com",
+        "domain": "tran.com",
+        "url": "https://www.vu.com/",
+        "user name": "hoangjohn",
+        "company": "Dương Công ty Cổ phần",
+        "job": "Nhà phân tích dữ liệu",
+        "profile": {
+            "job": "Lập trình viên",
+            "company": "Dương và Mai Tập Đoàn",
+            "ssn": "221-82-7294",
+            "residence": "835 Hoàng Khu\nHuyện JohnHuyện, 977843",
+            "current_location": [
+                "-78.8081095",
+                "-96.059643"
+            ],
+            "blood_group": "O+",
+            "website": [
+                "http://le.com/",
+                "http://pham.com/",
+                "https://www.mai.net/",
+                "https://www.duong.com/"
+            ],
+            "username": "stran",
+            "name": "Trung Lê",
+            "sex": "M",
+            "address": "951 John Đường\nJaneXã, 200430",
+            "mail": "nhoang@yahoo.com",
+            "birthdate": "2002-06-10"
+        }
+    },
+    "user4": {
+        "name": "Ông Anh Đặng",
+        "first name": "Jane",
+        "last name": "Bùi",
+        "date of birth": "2006-05-05",
+        "address": "359 Nguyễn Ngõ\nJaneHuyện, 268341",
+        "country": "Syria",
+        "city": "Quận JohnQuận",
+        "phone number": "+84-52-693911",
+        "email": "duongjohn@example.com",
+        "domain": "duong.org",
+        "url": "http://vu.com/",
+        "user name": "maijohn",
+        "company": "Trần và đối tác Tập Đoàn",
+        "job": "Project Manager",
+        "profile": {
+            "job": "Công nhân sản xuất",
+            "company": "Hoàng Mai Công ty Hợp danh",
+            "ssn": "778-06-3096",
+            "residence": "734 Hoàng Khu\nThành phố JohnThành phố, 333030",
+            "current_location": [
+                "-80.6223785",
+                "94.902243"
+            ],
+            "blood_group": "AB+",
+            "website": [
+                "https://bui.com/"
+            ],
+            "username": "gduong",
+            "name": "Chị Hà Hoàng",
+            "sex": "F",
+            "address": "1 Jane Số\nHuyện JohnPhường, 900037",
+            "mail": "johndang@gmail.com",
+            "birthdate": "1994-06-26"
+        }
+    }
+}

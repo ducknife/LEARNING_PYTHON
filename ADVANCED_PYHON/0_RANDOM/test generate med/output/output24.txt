@@ -1,0 +1,121 @@
+30
+Betty Hernandez
+18/06/2004
+COO
+94014580
+Patricia Miller
+28/06/1999
+Staff
+87324377
+Patricia Thomas
+03/01/1997
+Staff
+85606342
+Susan Hernandez
+18/10/1997
+Sr. Spec
+84829704
+Jessica Wilson
+12/10/2002
+TL
+84785679
+Thomas Johnson
+27/01/1999
+TL
+84460462
+Nancy Taylor
+23/02/2000
+CFO
+82796046
+Charles Miller
+27/06/1990
+Staff
+80210087
+Linda Taylor
+05/09/1993
+Staff
+69581104
+William Davis
+25/01/1990
+CFO
+69292979
+Matthew Garcia
+22/08/1991
+Sr. Mgr
+66031579
+William Moore
+03/10/1994
+Mgr
+63550720
+Anthony Smith
+13/08/1994
+Dir.
+62923460
+Elizabeth Jackson
+15/04/2000
+CFO
+59545631
+Barbara Thomas
+10/08/1999
+VP
+56674131
+Thomas Gonzalez
+23/01/1998
+Sr. Spec
+55796116
+Richard Martinez
+21/02/2001
+Spec
+54038105
+John Davis
+09/04/1993
+Spec
+52875814
+Matthew Jackson
+02/04/1999
+COO
+46846704
+Linda Miller
+20/11/2000
+VP
+46688438
+Karen Martinez
+21/01/1993
+COO
+46277664
+Mark Martin
+19/11/2003
+Dir.
+41694951
+Daniel Martinez
+24/12/2000
+TL
+38614111
+Betty Taylor
+20/01/1990
+Dir.
+36892843
+Thomas Johnson
+27/10/2002
+CEO
+30707479
+Barbara Martinez
+21/09/1992
+COO
+25287586
+David Martinez
+13/06/1998
+CFO
+25002080
+Elizabeth Martin
+20/07/1994
+TL
+21539640
+Christopher Gonzalez
+13/04/1990
+TL
+21184792
+Richard Brown
+08/10/2003
+Sr. Mgr
+10378356

@@ -1,0 +1,25 @@
+6
+Jennifer Martinez
+20/08/1990
+Sr. Spec
+97863804
+Patricia Hernandez
+28/04/1999
+Intern
+90247895
+David Moore
+05/01/1996
+Sr. Spec
+72907524
+Michael Gonzalez
+15/05/1993
+Sr. Mgr
+61561587
+Susan Williams
+29/05/1990
+VP
+10452426
+Richard Smith
+17/12/1990
+CEO
+32208919

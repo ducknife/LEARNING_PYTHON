@@ -1,0 +1,153 @@
+38
+David Williams
+25/07/2003
+TL
+30576753
+Matthew Jackson
+28/03/2003
+Spec
+98177413
+Susan Johnson
+10/01/1996
+VP
+30858103
+Christopher Gonzalez
+03/05/1997
+CFO
+68848233
+David Moore
+13/03/1996
+Staff
+66083592
+Susan Jones
+29/03/2001
+Mgr
+42571019
+Jessica Williams
+06/10/1999
+Dir.
+11550326
+Sarah Taylor
+20/01/2004
+Intern
+22961646
+Barbara Davis
+09/04/1993
+VP
+78319365
+Jennifer Thomas
+31/03/1997
+TL
+64117281
+Jennifer Anderson
+15/05/1994
+Spec
+28378659
+Thomas Anderson
+19/01/2002
+COO
+53168856
+Michael Anderson
+03/08/2004
+Mgr
+90446188
+Thomas Martin
+26/07/1998
+TL
+20808330
+Sandra Martinez
+20/09/2003
+Sr. Mgr
+39152207
+Sandra Gonzalez
+06/03/1994
+Sr. Mgr
+79812827
+William Davis
+21/05/1998
+Sr. Mgr
+66633283
+Elizabeth Jones
+31/05/1992
+VP
+53989209
+Christopher Brown
+05/12/1992
+Intern
+79030617
+Mark Jackson
+30/01/1990
+Spec
+29327620
+Sandra Thomas
+10/12/1999
+Intern
+80359853
+Linda Lopez
+08/08/1998
+VP
+93333110
+Barbara Thomas
+14/05/1994
+Staff
+51698804
+Lisa Jones
+29/10/1994
+Spec
+97867475
+Sarah Brown
+23/05/1999
+CFO
+53363908
+Betty Hernandez
+02/05/2004
+TL
+44226032
+John Moore
+03/03/2002
+Intern
+18779061
+Robert Garcia
+26/08/2002
+Spec
+51223096
+Christopher Martin
+19/07/1997
+Spec
+58261514
+James Smith
+30/03/1994
+TL
+67121766
+Jennifer Hernandez
+29/01/1993
+Dir.
+47141948
+Daniel Moore
+13/08/2000
+Mgr
+19496370
+Karen Gonzalez
+06/11/1996
+VP
+30132053
+Susan Garcia
+03/07/2000
+Spec
+37884011
+Richard Taylor
+04/08/1995
+TL
+56911031
+Christopher Wilson
+13/04/2004
+Spec
+10412349
+Charles Lopez
+09/07/1992
+Intern
+37317857
+Jessica Smith
+12/08/2002
+Dir.
+37932131

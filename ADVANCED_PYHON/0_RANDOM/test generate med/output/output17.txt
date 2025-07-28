@@ -1,0 +1,353 @@
+88
+Nancy Brown
+28/07/2001
+Dir.
+98292279
+Richard Taylor
+04/08/1997
+Dir.
+97305524
+Joseph Williams
+11/07/1994
+VP
+95076994
+Robert Moore
+12/11/1990
+CFO
+94258287
+Lisa Jones
+14/01/2001
+CTO
+93802519
+William Anderson
+09/02/1991
+TL
+93653753
+William Martin
+30/12/1993
+CFO
+92220766
+Richard Davis
+11/04/2003
+CEO
+91420884
+John Thomas
+14/07/2003
+Dir.
+90162538
+David Williams
+13/07/1997
+Mgr
+89434461
+Charles Jones
+23/02/2001
+Dir.
+87180456
+Christopher Gonzalez
+30/09/1999
+Spec
+87117141
+Joseph Gonzalez
+18/03/2004
+Spec
+86579374
+Thomas Williams
+16/08/1990
+COO
+85726699
+Jessica Rodriguez
+28/01/1995
+COO
+85706671
+Karen Jones
+26/01/2001
+VP
+84411989
+Barbara Jackson
+23/03/1996
+Mgr
+83925372
+Jennifer Hernandez
+09/10/1998
+Dir.
+83697862
+James Moore
+14/01/1999
+Mgr
+83542923
+Mark Brown
+15/03/2002
+Intern
+82167113
+Robert Martinez
+19/03/2001
+TL
+80565995
+Sandra Brown
+23/04/1991
+TL
+80342083
+Mary Martinez
+31/10/2001
+Spec
+79145963
+Matthew Wilson
+02/05/2004
+TL
+78685306
+Mark Wilson
+04/11/1998
+VP
+77225878
+Sandra Moore
+18/07/1993
+CFO
+76970837
+Nancy Lopez
+08/04/1991
+Mgr
+76799979
+Christopher Anderson
+20/06/2004
+VP
+76562196
+Michael Williams
+12/09/2002
+TL
+75785953
+Mark Thomas
+23/04/1990
+Mgr
+75703895
+Margaret Lopez
+03/01/2000
+Dir.
+74587464
+Sarah Wilson
+09/04/1994
+Sr. Mgr
+74462302
+Michael Jackson
+07/10/1996
+Sr. Mgr
+74444350
+Jennifer Rodriguez
+11/06/2002
+TL
+74170359
+Matthew Thomas
+08/08/1991
+CEO
+71500054
+Charles Moore
+05/04/1990
+Mgr
+69541110
+Matthew Garcia
+01/04/1994
+VP
+69529067
+Nancy Miller
+20/01/1993
+CFO
+63861858
+John Jones
+24/03/2003
+VP
+63487180
+Anthony Lopez
+27/03/1994
+CTO
+59916565
+Elizabeth Wilson
+27/07/1993
+COO
+56578226
+Margaret Anderson
+12/11/1999
+Staff
+56520847
+Robert Jones
+09/10/1995
+VP
+55622431
+Christopher Smith
+20/08/2000
+Mgr
+55101736
+Betty Garcia
+08/08/1993
+TL
+55092429
+Elizabeth Taylor
+10/12/1990
+CFO
+53960344
+Joseph Garcia
+12/04/2003
+Staff
+53503041
+William Jones
+13/04/2002
+CFO
+51337164
+Lisa Jones
+26/03/1998
+TL
+51203102
+Robert Moore
+14/12/1994
+CFO
+50934680
+Matthew Garcia
+25/07/1990
+Sr. Spec
+48628226
+Nancy Gonzalez
+07/08/1993
+COO
+48589892
+Christopher Martin
+12/03/1996
+CEO
+47479672
+Betty Garcia
+25/01/2003
+Spec
+46853800
+Patricia Martinez
+21/02/1999
+CEO
+44834914
+Karen Taylor
+29/10/1996
+VP
+42175073
+Elizabeth Hernandez
+03/05/1999
+COO
+40437026
+Lisa Hernandez
+26/06/1998
+CEO
+36261688
+Christopher Hernandez
+28/06/2003
+CFO
+35677581
+David Garcia
+20/07/2001
+Staff
+35222578
+Lisa Lopez
+31/07/2000
+Staff
+33917723
+Betty Jackson
+31/08/1996
+Spec
+32907971
+Joseph Hernandez
+11/12/1995
+VP
+31951376
+Betty Miller
+22/12/1997
+Intern
+29389723
+Richard Miller
+08/10/1991
+Sr. Spec
+28725753
+Lisa Rodriguez
+21/02/1996
+Dir.
+28569750
+Joseph Martin
+15/08/2000
+TL
+25764502
+Patricia Martin
+04/10/1996
+Dir.
+25671258
+Jennifer Thomas
+05/09/2002
+Sr. Mgr
+25535312
+Sarah Moore
+12/10/1996
+VP
+24635128
+John Garcia
+28/10/1997
+Spec
+24540481
+Daniel Hernandez
+19/09/2004
+Mgr
+23222874
+Betty Jackson
+26/11/1995
+VP
+22463496
+Karen Jackson
+30/09/1995
+VP
+21771687
+Patricia Davis
+30/09/1999
+Mgr
+20543328
+Sandra Rodriguez
+23/10/1993
+Mgr
+18683183
+Betty Smith
+19/12/2004
+Sr. Spec
+18607835
+Richard Jones
+18/10/1992
+Sr. Mgr
+18327797
+Betty Wilson
+27/07/1993
+Staff
+15268866
+Michael Jones
+31/08/1999
+CEO
+14614146
+Michael Johnson
+05/11/1997
+Spec
+14597149
+Mary Taylor
+29/01/1995
+Intern
+14574267
+Robert Anderson
+05/02/1993
+Spec
+13942466
+Anthony Davis
+15/09/2001
+Sr. Spec
+13750087
+Mark Wilson
+08/05/1998
+CEO
+13085308
+Joseph Garcia
+23/05/2002
+CTO
+11376923
+John Davis
+08/05/1997
+CFO
+10969183
+Patricia Lopez
+27/10/2004
+Spec
+10660353
