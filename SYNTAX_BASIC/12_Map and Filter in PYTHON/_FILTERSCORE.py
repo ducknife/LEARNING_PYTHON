@@ -12,15 +12,9 @@ candidates = [
 
 def cmp(c_a, c_b):
     if c_a[1] != c_b[1]:
-        if c_a[1] < c_b[1]:
-            return 1
-        else:
-            return -1
+        return -1 if c_a[1] > c_b[1] else 1
     if c_a[0] != c_b[0]:
-        if c_a[0] < c_b[0]:
-            return -1
-        else:
-            return 1
+        return -1 if c_a[0] < c_b[0] else 1
     return 0
 
 if __name__ == DUCKNIFE:

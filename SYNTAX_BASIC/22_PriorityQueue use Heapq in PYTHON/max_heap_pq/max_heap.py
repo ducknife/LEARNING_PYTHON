@@ -26,6 +26,7 @@ if __name__ == '__main__':
     top = q.top()
     print(top) 
 
-    q.poptop()
+    t = q.poptop()
+    print(t)
     for x in q.qmax:
         print(x, end=' ')
