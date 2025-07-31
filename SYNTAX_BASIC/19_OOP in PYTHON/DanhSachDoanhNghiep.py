@@ -1,47 +1,35 @@
-import cv2
-import numpy as np
+import os
+from functools import cmp_to_key
 
-face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
+class DoanhNghiep:
+    def __init__ (self, id, name, num):
+        self.id = delete_ws(id)
+        self.name = delete_ws(name)
+        self.num = num
+    def __str__(self):
+        return f'{self.id} {self.name} {self.num}'
+    
+def delete_ws(name):
+    tmp = name.strip().split()
+    res = ' '.join(tmp)
+    return res
 
-cap = cv2.VideoCapture(0)
-ret, prev_frame = cap.read()
-prev_gray = cv2.cvtColor(prev_frame, cv2.COLOR_BGR2GRAY)
+def cmp(a, b):
+    if a.num != b.num:
+        return -1 if a.num > b.num else 1
+    if a.id != b.id:
+        return -1 if a.id < b.id else 1
+    return 0
 
-motion_threshold = 5000
-no_motion_count = 0
-frame_count = 0
-
-while True:
-    ret, frame = cap.read()
-    if not ret:
-        break
-
-    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
-    faces = face_cascade.detectMultiScale(gray, 1.3, 5)
-
-    # So sánh chuyển động với frame trước
-    diff = cv2.absdiff(gray, prev_gray)
-    _, thresh = cv2.threshold(diff, 25, 255, cv2.THRESH_BINARY)
-    motion = np.sum(thresh)
-
-    if motion < motion_threshold:
-        no_motion_count += 1
-    else:
-        no_motion_count = 0
-
-    prev_gray = gray.copy()
-    frame_count += 1
-
-    # Đánh dấu khuôn mặt
-    for (x, y, w, h) in faces:
-        color = (0, 255, 0) if no_motion_count < 20 else (0, 0, 255)
-        label = "Real" if no_motion_count < 20 else "Fake"
-        cv2.rectangle(frame, (x, y), (x + w, y + h), color, 2)
-        cv2.putText(frame, label, (x, y - 10), cv2.FONT_HERSHEY_SIMPLEX, 0.9, color, 2)
-
-    cv2.imshow("Face Spoof Detection", frame)
-    if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
-
-cap.release()
-cv2.destroyAllWindows()
+if __name__ == '__main__':
+    n = int(input())
+    dn_list = []
+    for _ in range(n):
+        id = input()
+        name = input()
+        num = int(input())
+        dn = DoanhNghiep(id, name, num)
+        dn_list.append(dn)
+    dn_list.sort(key=cmp_to_key(cmp))
+    for x in dn_list:
+        print(x)

@@ -8,9 +8,13 @@ def val(x):
 if __name__ == DUCKNIFE:
     #ducknife
     h_dict = {}
+    h_dict['hello'] = 'world'
     h_dict.setdefault('Hung', 99) # thêm vào với giá trị key, value nếu key chưa có trong dict
     h_dict['Hung'] += 1
     print(h_dict)
+
+    h_dict.update({'Hoho' : 10})
+    print(h_dict.get('Hoho'))
 
     h_dict.update({'Haha': 10, 'Hihi': 10})
     print(h_dict)

@@ -4,7 +4,11 @@ DUCKNIFE = '__main__'
 
 if __name__ == DUCKNIFE:
     #ducknife
-    s = input()
+    s = list(input())
+    s = s[::-1]
+    while len(s) > 1 and s[-1] == '0':
+        s.pop()
+    s = s[::-1]
     n = len(s)
     res = ''
     cnt = 0

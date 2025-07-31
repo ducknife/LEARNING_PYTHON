@@ -43,7 +43,7 @@ userData.setdefault('girl friend name', 'Pham Quynh') #thêm key, value nếu ke
 userData['age'] = 21
 print(userData['age'])
 
-userData.update({'status': 'date'}) #vừa thêm vừa sửa được nhiều phần tử
+userData.update({'status': 'date', 'company' : 'Google'}) #vừa thêm vừa sửa được nhiều phần tử
 
 #xoa phan tu trong dictionary
 del userData['major']

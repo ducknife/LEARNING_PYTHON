@@ -20,7 +20,7 @@ a = 1.23123
 print('%.2f' %a) #in ra 2 số thập phân sau dấu phẩy 
 print('{:.2f}'.format(a)) #in ra 2 số thập phân sau dấu phẩy
 
-b = 3 + 5j #số thực 
+b = 3 + 5j #số phức 
 
 print(b.real) #phần thực
 print(b.imag) #phần ảo
